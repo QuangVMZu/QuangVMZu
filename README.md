@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangvmzu&label=Profile%20views&color=0e75b6&style=flat" alt="quangvmzu" /> </p>
 
-- 🌱 I’m currently learning **Spring, flutter, .....**
+- 🌱 I’m currently learning **Spring, flutter, ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QuangVMZu](https://github.com/QuangVMZu)
 
