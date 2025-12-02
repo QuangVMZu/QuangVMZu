@@ -1,4 +1,4 @@
-Hi there 👋 My name is **Quang Vũ**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Quang Vũ
 ===================================
 
 🎯 **Java Backend / Java Web Developer**
@@ -106,9 +106,19 @@ I enjoy writing clean, maintainable code and working in a team environment. I’
 
 ### 📊 My GitHub Stats
 
-<a href="http://www.github.com/QuangVMZu">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuangVMZu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=QuangVMZu&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="QuangVMZu GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangVMZu&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
+</p>
 
 ---
 
