@@ -19,7 +19,7 @@ I enjoy writing clean, maintainable code and working in a team environment. I’
 
 - 🌍 Based in **Vietnam**
 - 🖥️ Portfolio: [quangvmzu.github.io/Portfolio](https://quangvmzu.github.io/Portfolio/)
-- 📄 CV: [View CV]([https://your-cv-link-here](https://quangvmzu.github.io/CV_2526/)
+- 📄 CV: [View CV](https://quangvmzu.github.io/CV_2526/)
 - ✉️ Email: **[vminhquang05@gmail.com](mailto:vminhquang05@gmail.com)**
 - 🧠 Currently learning: **ReactJS** & **Docker**
 
